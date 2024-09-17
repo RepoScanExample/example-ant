@@ -12,3 +12,4 @@ srcclr scan --url https://github.com/srcclr/example-java-ant
 
 test
 test 2
+test 3
